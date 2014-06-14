@@ -48,12 +48,18 @@ or another way is:
 
 <h2>Colours Table Usage Description</h2>
 
-| Colour Names   | Using For Text          | Using For Background      |
-| ---------------|:-----------------------:|:-------------------------:|
-| Aliceblue      | aliceblue, clrF0F8FF    | aliceblue-bg, bgF0F8FF    |
-| Antiquewhite   | antiquewhite, clrFAEBD7 | antiquewhite-bg, bgFAEBD7 |
-| Aqua           | aqua, clr00FFFF         | aqua-bg, bg00FFFF         |
-| Aquamarine     | aquamarine, clr7FFFD4   | aquamarine-bg, bg7FFFD4   | 
+| Colour Names    | Using For Text (CSS Classes) | Using For Background (CSS Classes) |
+| ----------------|:----------------------------:|:----------------------------------:|
+| AcidGreen       | acidgreen, clrB0BF1A         | acidgreen-bg, bgB0BF1A             |
+| Aero            | aero, clr7CB9E8              | aero-bg, bg7CB9E8                  |
+| AeroBlue        | aeroblue, clrC9FFE5          | aeroblue-bg, bgC9FFE5              |
+| AfricanViolet   | africanviolet, clrB284BE     | africanviolet-bg, bgB284BE     |
+| AlabamaCrimson  | alabamacrimson, clrAF002A    | alabamacrimson-bg, bgAF002A    |
+| Aliceblue       | aliceblue, clrF0F8FF         | aliceblue-bg, bgF0F8FF         |
+| AlizarinCrimson | alizarincrimson, clrE32636   | alizarincrimson-bg, bgE32636   |
+| Antiquewhite    | antiquewhite, clrFAEBD7      | antiquewhite-bg, bgFAEBD7      |
+| Aqua            | aqua, clr00FFFF              | aqua-bg, bg00FFFF              |
+| Aquamarine      | aquamarine, clr7FFFD4        | aquamarine-bg, bg7FFFD4        | 
 | Azure |
 | Beige |
 | Bisque |
@@ -171,23 +177,31 @@ or another way is:
 | Sandybrown |
 | Seagreen |
 | Seashell |
+| Sienna |
+| Silver |
+| Skyblue |
+| Slateblue |
+| Slategray |
+| Snow |
+| Springgreen |
+| Steelblue |
+| Tan |
+| Teal |
+| Thistle |
+| Tomato |
+| Turquoise |
+| Violet |
+| Wheat |
+| White |
+| Whitesmoke |
+| Yellow |
+| YellowGreen |
+
 |  |
 |  |
 |  |
 |  |
-|  ||  |
-
-
-
-
-
-
-
-
-
-
-
-
+|  |
 
 
 
