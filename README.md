@@ -5,7 +5,7 @@
 
 <h2>Usage</h2>
 
-To use colours.css in your website, simply put the colours.css stylesheet in your css folder and link the stylesheet into your document's "head" tag:
+To use colours.css in your website, simply put the colours.css stylesheet in your css folder and link the stylesheet into your document's `head` tag:
 
     <head>
      <link rel="stylesheet" href="css/colours.css">
