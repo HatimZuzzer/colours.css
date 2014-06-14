@@ -46,11 +46,12 @@ or another way is:
 
 <h5>Colours.css is the New Easy Way to Colour Your Website</h5>
 
+<h2>Colours Table Usage Description</h2>
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Colour Names   | Using For Text | Using For Background |
+| ---------------|:--------------:| --------------------:|
+|                |                |                      |
+|                |                |                      |
+|                |                |                      |
 
 
