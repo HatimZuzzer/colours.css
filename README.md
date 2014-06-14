@@ -48,10 +48,146 @@ or another way is:
 
 <h2>Colours Table Usage Description</h2>
 
-| Colour Names   | Using For Text        | Using For Background   |
-| ---------------|:---------------------:|:----------------------:|
-| Aliceblue      | aliceblue, clrF0F8FF  | aliceblue-bg, bgF0F8FF |
-|                |                       |                        |
-|                |                       |                        |
+| Colour Names   | Using For Text          | Using For Background      |
+| ---------------|:-----------------------:|:-------------------------:|
+| Aliceblue      | aliceblue, clrF0F8FF    | aliceblue-bg, bgF0F8FF    |
+| Antiquewhite   | antiquewhite, clrFAEBD7 | antiquewhite-bg, bgFAEBD7 |
+| Aqua           | aqua, clr00FFFF         | aqua-bg, bg00FFFF         |
+| Aquamarine     | aquamarine, clr7FFFD4   | aquamarine-bg, bg7FFFD4   | 
+| Azure |
+| Beige |
+| Bisque |
+| Black |
+| Blanchedalmond |
+| Blue |
+| Blueviolet |
+| Brown |
+| Burlywood |
+| Cadetblue |
+| Chartreuse |
+| Chocolate |
+| Coral |
+| Cornflowerblue |
+| Cornsilk |
+| Crimson |
+| Cyan |
+| Darkblue |
+| Darkcyan |
+| Darkgoldenrod |
+| Darkgray |
+| Darkgreen |
+| Darkkhaki |
+| Darkmagenta |
+| Darkolivegreen |
+| Darkorange |
+| Darkorchid |
+| Darkred |
+| Darksalmon |
+| Darkseagreen |
+| Darkslateblue |
+| Darkslategray |
+| Darkturquoise |
+| Darkviolet |
+| Deeppink |
+| Deepskyblue |
+| Dimgray |
+| Dodgerblue |
+| Firebrick |
+| Floralwhite |
+| Forestgreen |
+| Fuchsia |
+| Gainsboro |
+| Ghostwhite |
+| Gold |
+| Goldenrod |
+| Gray |
+| Green | 
+| Greenyellow |
+| Honeydew |
+| Hotpink |
+| Indianred |
+| Indigo |
+| Ivory |
+| Khaki |
+| Lavender |
+| Lavenderblush |
+| Lawngreen |
+| Lemonchiffon |
+| Lightblue |
+| Lightcoral |
+| Lightcyan |
+| Lightgoldenrodyellow |
+| Lightgreen |
+| Lightgrey |
+| Lightpink |
+| Lightsalmon |
+| Lightseagreen |
+| Lightskyblue |
+| Lightslategray |
+| Lightsteelblue |
+| Lightyellow |
+| Lime |
+| Limegreen |
+| Linen |
+| Magenta |
+| Maroon |
+| Mediumauqamarine |
+| Mediumblue |
+| Mediumorchid |
+| Mediumpurple |
+| Mediumseagreen |
+| Mediumslateblue |
+| Mediumspringgreen |
+| Mediumturquoise |
+| Mediumvioletred |
+| Midnightblue |
+| Mintcream |
+| Mistyrose |
+| Moccasin |
+| Navajowhite |
+| Navy |
+| Oldlace |
+| Olive | 
+| Olivedrab |
+| Orange |
+| Orangered |
+| Orchid |
+| Palegoldenrod |
+| Palegreen |
+| Paleturquoise |
+| Palevioletred |
+| Papayawhip |
+| Peachpuff |
+| Peru |
+| Pink |
+| Plum |
+| Powderblue |
+| Purple |
+| Red | 
+| Rosybrown |
+| Royalblue |
+| Saddlebrown |
+| Salmon |
+| Sandybrown |
+| Seagreen |
+| Seashell |
+|  |
+|  |
+|  |
+|  |
+|  ||  |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
