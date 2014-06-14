@@ -45,3 +45,12 @@ or another way is:
 > **You can use Colours.css wherever you want to use colours in your website.**
 
 <h5>Colours.css is the New Easy Way to Colour Your Website</h5>
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
