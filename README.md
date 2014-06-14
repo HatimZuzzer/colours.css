@@ -42,5 +42,6 @@ or another way is:
     <h1 class="bg000000 clrFFFFFF">This is a H1 Tag in White colour</h1>
 
 
-You can use Colours.css wherever you want to use colours in your website.
-<h5>Colours.css is the New Easy Way to Colour Your Website</h5>
+> You can use Colours.css wherever you want to use colours in your website.
+
+> <h5>Colours.css is the New Easy Way to Colour Your Website</h5>
