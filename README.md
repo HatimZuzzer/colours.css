@@ -48,10 +48,10 @@ or another way is:
 
 <h2>Colours Table Usage Description</h2>
 
-| Colour Names   | Using For Text | Using For Background |
-| ---------------|:--------------:| --------------------:|
-|                |                |                      |
-|                |                |                      |
-|                |                |                      |
+| Colour Names   | Using For Text        | Using For Background   |
+| ---------------|:---------------------:|:----------------------:|
+| Aliceblue      | aliceblue, clrF0F8FF  | aliceblue-bg, bgF0F8FF |
+|                |                       |                        |
+|                |                       |                        |
 
 
