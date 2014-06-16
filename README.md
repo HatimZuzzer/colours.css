@@ -48,7 +48,7 @@ or another way is:
 
 <h2>Colours Table Usage Description</h2>
 
-| Colour Names         | Using For Text (CSS Classes)              | Using For Background (CSS Classes)               |
+| Colour Names         | Using For Text (Put in Class Tag)         | Using For Background (Put in Class Tag)          |
 | ---------------------|:-----------------------------------------:|:------------------------------------------------:|
 | Acid Green           | acidgreen, clrB0BF1A                      | acidgreen-bg, bgB0BF1A                           |
 | Aero                 | aero, clr7CB9E8                           | aero-bg, bg7CB9E8                                |
@@ -124,30 +124,30 @@ or another way is:
 | Light Cyan           | lightcyan, clrE0FFFF                      | lightcyan-bg, bgE0FFFF                           |
 | Light Goldenrod Yellow | lightgoldenrodyellow, clrFAFAD2         | lightgoldenrodyellow-bg, bgFAFAD2                |
 | Light Green          | lightgreen, clr90EE90                     | lightgreen-bg, bg90EE90                          |  
-| Light Grey |
-| Light Pink |
-| Light Salmon |
-| Light Sea Green |
-| Light Sky Blue |
-| LightSlate Gray |
-| Light Steel Blue |
-| Light Yellow |
-| Lime |
-| Lime Green |
-| Linen |
-| Magenta |
-| Maroon |
-| Medium Auqamarine |
-| Medium Blue |
-| Medium Orchid |
-| Medium Purple |
-| Medium Sea Green |
-| MediumSlate Blue |
-| Medium Spring Green |
-| Medium Turquoise |
-| Medium Violet Red |
-| Midnight Blue |
-| Mint Cream |
+| Light Grey           | lightgrey, lightgray, clrD3D3D3           | lightgrey-bg, lightgray-bg, bgD3D3D3             |
+| Light Pink           | 
+| Light Salmon         |
+| Light Sea Green      |
+| Light Sky Blue       |
+| LightSlate Gray      |
+| Light Steel Blue     |
+| Light Yellow         |
+| Lime                 |
+| Lime Green           | 
+| Linen                |
+| Magenta              |
+| Maroon               | 
+| Medium Auqamarine    |
+| Medium Blue          | 
+| Medium Orchid        |
+| Medium Purple        |
+| Medium Sea Green     |
+| MediumSlate Blue     |
+| Medium Spring Green  |
+| Medium Turquoise     |
+| Medium Violet Red    |
+| Midnight Blue        |
+| Mint Cream           |
 | Misty Rose |
 | Moccasin |
 | Navajo White |
