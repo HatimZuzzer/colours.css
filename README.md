@@ -50,141 +50,141 @@ or another way is:
 
 | Colour Names         | Using For Text (CSS Classes)             | Using For Background (CSS Classes)               |
 | ---------------------|:----------------------------------------:|:------------------------------------------------:|
-| AcidGreen            | acidgreen, clrB0BF1A                     | acidgreen-bg, bgB0BF1A                           |
+| Acid Green           | acidgreen, clrB0BF1A                     | acidgreen-bg, bgB0BF1A                           |
 | Aero                 | aero, clr7CB9E8                          | aero-bg, bg7CB9E8                                |
-| AeroBlue             | aeroblue, clrC9FFE5                      | aeroblue-bg, bgC9FFE5                            |
-| AfricanViolet        | africanviolet, clrB284BE                 | africanviolet-bg, bgB284BE                       |
-| AlabamaCrimson       | alabamacrimson, clrAF002A                | alabamacrimson-bg, bgAF002A                      |
-| Aliceblue            | aliceblue, clrF0F8FF                     | aliceblue-bg, bgF0F8FF                           |
-| AlizarinCrimson      | alizarincrimson, clrE32636               | alizarincrimson-bg, bgE32636                     |
-| Antiquewhite         | antiquewhite, clrFAEBD7                  | antiquewhite-bg, bgFAEBD7                        |
+| Aero Blue            | aeroblue, clrC9FFE5                      | aeroblue-bg, bgC9FFE5                            |
+| African Violet       | africanviolet, clrB284BE                 | africanviolet-bg, bgB284BE                       |
+| Alabama Crimson      | alabamacrimson, clrAF002A                | alabamacrimson-bg, bgAF002A                      |
+| Alice Blue           | aliceblue, clrF0F8FF                     | aliceblue-bg, bgF0F8FF                           |
+| Alizarin Crimson     | alizarincrimson, clrE32636               | alizarincrimson-bg, bgE32636                     |
+| Antique White        | antiquewhite, clrFAEBD7                  | antiquewhite-bg, bgFAEBD7                        |
 | Aqua                 | aqua, clr00FFFF                          | aqua-bg, bg00FFFF                                |
-| Aquamarine           | aquamarine, clr7FFFD4                    | aquamarine-bg, bg7FFFD4                          |
+| Aqua Marine          | aquamarine, clr7FFFD4                    | aquamarine-bg, bg7FFFD4                          |
 | Azure                | azure, clrF0FFFF                         | azure-bg, bgF0FFFF                               |
 | Beige                | beige, clrF5F5DC                         | beige-bg, bgF5F5DC                               |
 | Bisque               | bisque, clrFFE4C4                        | bisque-bg, bgFFE4C4                              |
 | Black                | black, clr000000                         | black-bg, bg000000                               |
-| Blanchedalmond       | blanchedalmond, clrFFEBCD                | blanchedalmond-bg, bgFFEBCD                      |
+| Blanched Almond      | blanchedalmond, clrFFEBCD                | blanchedalmond-bg, bgFFEBCD                      |
 | Blue                 | blue, clr0074D9                          | blue-bg, bg0074D9                                |
-| Blueviolet           | blueviolet, clr8A2BE2                    | blueviolet-bg, bg8A2BE2                          |
+| Blue Violet          | blueviolet, clr8A2BE2                    | blueviolet-bg, bg8A2BE2                          |
 | Brown                | brown, clrA52A2A                         | brown-bg, bgA52A2A                               |
-| Burlywood            | burlywood, clrDEB887                     | burlywood-bg, bgDEB887                           |
-| Cadetblue            | cadetblue, clr5F9EA0                     | cadetblue-bg, bg5F9EA0                           |
-| Chartreuse |
-| Chocolate |
-| Coral |
-| Cornflowerblue |
-| Cornsilk |
+| Burly Wood           | burlywood, clrDEB887                     | burlywood-bg, bgDEB887                           |
+| Cadet Blue           | cadetblue, clr5F9EA0                     | cadetblue-bg, bg5F9EA0                           |
+| Chartreuse           | chartreuse, clr7FFF00                    | chartreuse-bg, bg7FFF00                          |
+| Chocolate            | chocolate, clrD2691E                     | chocolate-bg, bgD2691E                           |
+| Coral                | coral, clrFF7F50                         | coral-bg, bgFF7F50                               |
+| Cornflower Blue      | cornflowerblue, clr6495ED                | cornflowerblue-bg, bg6495ED                      |
+| Corn Silk            |  
 | Crimson |
 | Cyan |
-| Darkblue |
-| Darkcyan |
-| Darkgoldenrod |
-| Darkgray |
-| Darkgreen |
-| Darkkhaki |
-| Darkmagenta |
-| Darkolivegreen |
-| Darkorange |
-| Darkorchid |
-| Darkred |
-| Darksalmon |
-| Darkseagreen |
-| Darkslateblue |
-| Darkslategray |
-| Darkturquoise |
-| Darkviolet |
-| Deeppink |
-| Deepskyblue |
-| Dimgray |
-| Dodgerblue |
-| Firebrick |
-| Floralwhite |
-| Forestgreen |
+| Dark Blue |
+| Dark Cyan |
+| Dark Goldenrod |
+| Dark Gray |
+| Dark Green |
+| Dark Khaki |
+| Dark Magenta |
+| Dark Olive Green |
+| Dark Orange |
+| Dark Orchid |
+| Dark Red |
+| Dark Salmon |
+| Dark Sea Green |
+| DarkSlate Blue |
+| DarkSlate Gray |
+| Dark Turquoise |
+| Dark Violet |
+| Deep Pink |
+| Deep Sky Blue |
+| Dim Gray |
+| Dodger Blue |
+| Fire Brick |
+| Floral White |
+| Forest Green |
 | Fuchsia |
 | Gainsboro |
-| Ghostwhite |
+| Ghost White |
 | Gold |
 | Goldenrod |
 | Gray |
 | Green | 
-| Greenyellow |
-| Honeydew |
-| Hotpink |
-| Indianred |
+| Green Yellow |
+| HoneyDew |
+| Hot Pink |
+| Indian Red |
 | Indigo |
 | Ivory |
 | Khaki |
 | Lavender |
-| Lavenderblush |
-| Lawngreen |
-| Lemonchiffon |
-| Lightblue |
-| Lightcoral |
-| Lightcyan |
-| Lightgoldenrodyellow |
-| Lightgreen |
-| Lightgrey |
-| Lightpink |
-| Lightsalmon |
-| Lightseagreen |
-| Lightskyblue |
-| Lightslategray |
-| Lightsteelblue |
-| Lightyellow |
+| Lavender Blush |
+| Lawn Green |
+| Lemon Chiffon |
+| Light Blue |
+| Light Coral |
+| Light Cyan |
+| Light Goldenrod Yellow |
+| Light Green |
+| Light Grey |
+| Light Pink |
+| Light Salmon |
+| Light Sea Green |
+| Light Sky Blue |
+| LightSlate Gray |
+| Light Steel Blue |
+| Light Yellow |
 | Lime |
-| Limegreen |
+| Lime Green |
 | Linen |
 | Magenta |
 | Maroon |
-| Mediumauqamarine |
-| Mediumblue |
-| Mediumorchid |
-| Mediumpurple |
-| Mediumseagreen |
-| Mediumslateblue |
-| Mediumspringgreen |
-| Mediumturquoise |
-| Mediumvioletred |
-| Midnightblue |
-| Mintcream |
-| Mistyrose |
+| Medium Auqamarine |
+| Medium Blue |
+| Medium Orchid |
+| Medium Purple |
+| Medium Sea Green |
+| MediumSlate Blue |
+| Medium Spring Green |
+| Medium Turquoise |
+| Medium Violet Red |
+| Midnight Blue |
+| Mint Cream |
+| Misty Rose |
 | Moccasin |
-| Navajowhite |
+| Navajo White |
 | Navy |
-| Oldlace |
+| Old Lace |
 | Olive | 
-| Olivedrab |
+| Olive Drab |
 | Orange |
-| Orangered |
+| Orange Red |
 | Orchid |
-| Palegoldenrod |
-| Palegreen |
-| Paleturquoise |
-| Palevioletred |
-| Papayawhip |
-| Peachpuff |
+| Pale Goldenrod |
+| Pale Green |
+| Pale Turquoise |
+| Pale Violet Red |
+| Papaya Whip |
+| Peach Puff |
 | Peru |
 | Pink |
 | Plum |
-| Powderblue |
+| Powder Blue |
 | Purple |
 | Red | 
-| Rosybrown |
-| Royalblue |
-| Saddlebrown |
+| Rosy Brown |
+| Royal Blue |
+| Saddle Brown |
 | Salmon |
-| Sandybrown |
-| Seagreen |
-| Seashell |
+| Sandy Brown |
+| Sea Green |
+| Sea Shell |
 | Sienna |
 | Silver |
-| Skyblue |
-| Slateblue |
-| Slategray |
+| Sky Blue |
+| Slate Blue |
+| Slate Gray |
 | Snow |
-| Springgreen |
-| Steelblue |
+| Spring Green |
+| Steel Blue |
 | Tan |
 | Teal |
 | Thistle |
@@ -193,10 +193,9 @@ or another way is:
 | Violet |
 | Wheat |
 | White |
-| Whitesmoke |
+| White Smoke |
 | Yellow |
-| YellowGreen |
-
+| Yellow Green |
 |  |
 |  |
 |  |
