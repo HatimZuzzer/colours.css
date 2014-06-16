@@ -48,28 +48,28 @@ or another way is:
 
 <h2>Colours Table Usage Description</h2>
 
-| Colour Names    | Using For Text (CSS Classes) | Using For Background (CSS Classes) |
-| ----------------|:----------------------------:|:----------------------------------:|
-| AcidGreen       | acidgreen, clrB0BF1A         | acidgreen-bg, bgB0BF1A             |
-| Aero            | aero, clr7CB9E8              | aero-bg, bg7CB9E8                  |
-| AeroBlue        | aeroblue, clrC9FFE5          | aeroblue-bg, bgC9FFE5              |
-| AfricanViolet   | africanviolet, clrB284BE     | africanviolet-bg, bgB284BE     |
-| AlabamaCrimson  | alabamacrimson, clrAF002A    | alabamacrimson-bg, bgAF002A    |
-| Aliceblue       | aliceblue, clrF0F8FF         | aliceblue-bg, bgF0F8FF         |
-| AlizarinCrimson | alizarincrimson, clrE32636   | alizarincrimson-bg, bgE32636   |
-| Antiquewhite    | antiquewhite, clrFAEBD7      | antiquewhite-bg, bgFAEBD7      |
-| Aqua            | aqua, clr00FFFF              | aqua-bg, bg00FFFF              |
-| Aquamarine      | aquamarine, clr7FFFD4        | aquamarine-bg, bg7FFFD4        | 
-| Azure |
-| Beige |
-| Bisque |
-| Black |
-| Blanchedalmond |
-| Blue |
-| Blueviolet |
-| Brown |
-| Burlywood |
-| Cadetblue |
+| Colour Names         | Using For Text (CSS Classes)             | Using For Background (CSS Classes)               |
+| ---------------------|:----------------------------------------:|:------------------------------------------------:|
+| AcidGreen            | acidgreen, clrB0BF1A                     | acidgreen-bg, bgB0BF1A                           |
+| Aero                 | aero, clr7CB9E8                          | aero-bg, bg7CB9E8                                |
+| AeroBlue             | aeroblue, clrC9FFE5                      | aeroblue-bg, bgC9FFE5                            |
+| AfricanViolet        | africanviolet, clrB284BE                 | africanviolet-bg, bgB284BE                       |
+| AlabamaCrimson       | alabamacrimson, clrAF002A                | alabamacrimson-bg, bgAF002A                      |
+| Aliceblue            | aliceblue, clrF0F8FF                     | aliceblue-bg, bgF0F8FF                           |
+| AlizarinCrimson      | alizarincrimson, clrE32636               | alizarincrimson-bg, bgE32636                     |
+| Antiquewhite         | antiquewhite, clrFAEBD7                  | antiquewhite-bg, bgFAEBD7                        |
+| Aqua                 | aqua, clr00FFFF                          | aqua-bg, bg00FFFF                                |
+| Aquamarine           | aquamarine, clr7FFFD4                    | aquamarine-bg, bg7FFFD4                          |
+| Azure                | azure, clrF0FFFF                         | azure-bg, bgF0FFFF                               |
+| Beige                | beige, clrF5F5DC                         | beige-bg, bgF5F5DC                               |
+| Bisque               | bisque, clrFFE4C4                        | bisque-bg, bgFFE4C4                              |
+| Black                | black, clr000000                         | black-bg, bg000000                               |
+| Blanchedalmond       | blanchedalmond, clrFFEBCD                | blanchedalmond-bg, bgFFEBCD                      |
+| Blue                 | blue, clr0074D9                          | blue-bg, bg0074D9                                |
+| Blueviolet           | blueviolet, clr8A2BE2                    | blueviolet-bg, bg8A2BE2                          |
+| Brown                | brown, clrA52A2A                         | brown-bg, bgA52A2A                               |
+| Burlywood            | burlywood, clrDEB887                     | burlywood-bg, bgDEB887                           |
+| Cadetblue            | cadetblue, clr5F9EA0                     | cadetblue-bg, bg5F9EA0                           |
 | Chartreuse |
 | Chocolate |
 | Coral |
