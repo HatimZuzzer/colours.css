@@ -125,52 +125,52 @@ or another way is:
 | Light Goldenrod Yellow | lightgoldenrodyellow, clrFAFAD2         | lightgoldenrodyellow-bg, bgFAFAD2                |
 | Light Green          | lightgreen, clr90EE90                     | lightgreen-bg, bg90EE90                          |  
 | Light Grey           | lightgrey, lightgray, clrD3D3D3           | lightgrey-bg, lightgray-bg, bgD3D3D3             |
-| Light Pink           | 
-| Light Salmon         |
-| Light Sea Green      |
-| Light Sky Blue       |
-| LightSlate Gray      |
-| Light Steel Blue     |
-| Light Yellow         |
-| Lime                 |
-| Lime Green           | 
-| Linen                |
-| Magenta              |
-| Maroon               | 
-| Medium Auqamarine    |
-| Medium Blue          | 
-| Medium Orchid        |
-| Medium Purple        |
-| Medium Sea Green     |
-| MediumSlate Blue     |
-| Medium Spring Green  |
-| Medium Turquoise     |
-| Medium Violet Red    |
-| Midnight Blue        |
-| Mint Cream           |
-| Misty Rose |
-| Moccasin |
-| Navajo White |
-| Navy |
-| Old Lace |
-| Olive | 
-| Olive Drab |
-| Orange |
-| Orange Red |
-| Orchid |
-| Pale Goldenrod |
-| Pale Green |
-| Pale Turquoise |
-| Pale Violet Red |
-| Papaya Whip |
-| Peach Puff |
-| Peru |
-| Pink |
-| Plum |
-| Powder Blue |
-| Purple |
-| Red | 
-| Rosy Brown |
+| Light Pink           | lightpink, clrFFB6C1                      | lightpink-bg, bgFFB6C1                           | 
+| Light Salmon         | lightsalmon, clrFFA07A                    | lightsalmon-bg, bgFFA07A                         |
+| Light Sea Green      | lightseagreen, clr20B2AA                  | lightseagreen-bg, bg20B2AA                       |
+| Light Sky Blue       | lightskyblue, clr87CEFA                   | lightskyblue-bg, bg87CEFA                        |
+| LightSlate Gray      | lightslategray, lightslategrey, clr778899 | lightslategray-bg, lightslategrey-bg, bg778899   |
+| Light Steel Blue     | lightsteelblue, clrB0C4DE                 | lightsteelblue-bg, bgB0C4DE                      |
+| Light Yellow         | lightyellow, clrFFFFE0                    | lightyellow-bg, bgFFFFE0                         |
+| Lime                 | lime, clr00FF00                           | lime-bg, bg00FF00                                |
+| Lime Green           | limegreen, clr32CD32                      | limegreen-bg, bg32CD32                           |
+| Linen                | linen, clrFAF0E6                          | linen-bg, bgFAF0E6                               |
+| Magenta              | magenta, clrFF00FF                        | magenta-bg, bgFF00FF                             |
+| Maroon               | maroon, clr800000                         | maroon-bg, bg800000                              |
+| Medium Auqamarine    | mediumauqamarine, clr66CDAA               | mediumauqamarine-bg, bg66CDAA                    |
+| Medium Blue          | mediumblue, clr0000CD                     | mediumblue-bg, bg0000CD                          |
+| Medium Orchid        | mediumorchid, clrBA55D3                   | mediumorchid-bg, bgBA55D3                        |
+| Medium Purple        | mediumpurple, clr9370D8                   | mediumpurple-bg, bg9370D8                        |
+| Medium Sea Green     | mediumseagreen, clr3CB371                 | mediumseagreen-bg, bg3CB371                      |
+| MediumSlate Blue     | mediumslateblue, clr7B68EE                | mediumslateblue-bg, bg7B68EE                     |
+| Medium Spring Green  | mediumspringgreen, clr00FA9A              | mediumspringgreen-bg, bg00FA9A                   |
+| Medium Turquoise     | mediumturquoise, clr48D1CC                | mediumturquoise-bg, bg48D1CC                     |
+| Medium Violet Red    | mediumvioletred, clrC71585                | mediumvioletred-bg, bgC71585                     |
+| Midnight Blue        | midnightblue, clr191970                   | midnightblue-bg, bg191970                        |
+| Mint Cream           | mintcream, clrF5FFFA                      | mintcream-bg, bgF5FFFA                           |
+| Misty Rose           | mistyrose, clrFFE4E1                      | mistyrose-bg, bgFFE4E1                           |
+| Moccasin             | moccasin, clrFFE4B5                       | moccasin-bg, bgFFE4B5                            |
+| Navajo White         | navajowhite, clrFFDEAD                    | navajowhite-bg, bgFFDEAD                         |
+| Navy                 | navy, clr000080                           | navy-bg, bg000080                                |
+| Old Lace             | oldlace, clrFDF5E6                        | oldlace-bg, bgFDF5E6                             |
+| Olive                | olive, clr808000                          | olive-bg, bg808000                               |
+| Olive Drab           | olivedrab, clr688E23                      | olivedrab-bg, bg688E23                           |
+| Orange               | orange, clrFFA500                         | orange-bg, bgFFA500                              |
+| Orange Red           | orangered, clrFF4500                      | orangered-bg, bgFF4500                           |
+| Orchid               | orchid, clrDA70D6                         | orchid-bg, bgDA70D6                              |
+| Pale Goldenrod       | palegoldenrod, clrEEE8AA                  | palegoldenrod-bg, bgEEE8AA                       |
+| Pale Green           | palegreen, clr98FB98                      | palegreen-bg, bg98FB98                           |
+| Pale Turquoise       | paleturquoise, clrAFEEEE                  | paleturquoise-bg, bgAFEEEE                       |
+| Pale Violet Red      | palevioletred, clrD87093                  | palevioletred-bg, bgD87093                       |
+| Papaya Whip          | papayawhip, clrFFEFD5                     | papayawhip-bg, bgFFEFD5                          |
+| Peach Puff           | peachpuff, clrFFDAB9                      | peachpuff-bg, bgFFDAB9                           |
+| Peru                 | peru, clrCD853F                           | peru-bg, bgCD853F                                |
+| Pink                 | pink, clrFFC0CB                           | pink-bg, bgFFC0CB                                |
+| Plum                 | plum, clrDDA0DD                           | 
+| Powder Blue          |
+| Purple               |
+| Red                  | 
+| Rosy Brown           |
 | Royal Blue |
 | Saddle Brown |
 | Salmon |
