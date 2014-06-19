@@ -166,9 +166,9 @@ or another way is:
 | Peach Puff           | peachpuff, clrFFDAB9                      | peachpuff-bg, bgFFDAB9                           |
 | Peru                 | peru, clrCD853F                           | peru-bg, bgCD853F                                |
 | Pink                 | pink, clrFFC0CB                           | pink-bg, bgFFC0CB                                |
-| Plum                 | plum, clrDDA0DD                           | 
-| Powder Blue          |
-| Purple               |
+| Plum                 | plum, clrDDA0DD                           | plum-bg, bgDDA0DD                                |
+| Powder Blue          | powderblue, clrB0E0E6                     | powderblue-bg, bgB0E0E6                          |
+| Purple               | purple, clr800080                         | purple-bg, bg800080                              |
 | Red                  | 
 | Rosy Brown           |
 | Royal Blue |
