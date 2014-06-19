@@ -198,6 +198,10 @@ or another way is:
 | Yellow Green         | yellowgreen, clr9ACD32                    | yellowgreen-bg, bg9ACD32                         |
 
 
+<h2>AUTHOR</h2>
+
+Hatim Zuzzer
+
 <h2>LICENSE</h2>
 
 The MIT License (MIT)
