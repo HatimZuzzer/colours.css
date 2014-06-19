@@ -200,7 +200,7 @@ or another way is:
 
 <h2>AUTHOR</h2>
 
-Hatim Zuzzer
+Hatim Zuzzer[http://www.twitter.com/hatimzs]
 
 <h2>LICENSE</h2>
 
