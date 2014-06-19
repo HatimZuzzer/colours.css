@@ -1,0 +1,891 @@
+@charset "UTF-8";
+
+/*!
+Colours.css - 
+Licensed under the MIT license
+
+Copyright (c) 2014 Hatim Zuzzer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+*/
+
+.aliceblue, .clrF0F8FF {
+   color:#F0F8FF;
+}
+.aliceblue-bg, .bgF0F8FF {
+   background:#F0F8FF;
+}
+.antiquewhite, .clrFAEBD7 {
+   color:#FAEBD7;
+}
+.antiquewhite-bg, .bgFAEBD7 {
+   background:#FAEBD7;
+}
+.aqua, .clr00FFFF {
+   color:#00FFFF;
+}
+.aqua-bg, .bg00FFFF {
+   background:#00FFFF;
+}
+.aquamarine, .clr7FFFD4 {
+   color:#7FFFD4;
+}
+.aquamarine-bg, .bg7FFFD4 {
+   background:#7FFFD4;
+}
+.azure, .clrF0FFFF {
+   color:#F0FFFF;
+}
+.azure-bg, .bgF0FFFF {
+   background:#F0FFFF;
+}
+.beige, .clrF5F5DC {
+   color:#F5F5DC;
+}
+.beige-bg, .bgF5F5DC {
+   background:#F5F5DC;
+}
+.bisque, .clrFFE4C4 {
+   color:#FFE4C4;
+}
+.bisque-bg, .bgFFE4C4 {
+   background:#FFE4C4;
+}
+.black, .clr000000 {
+   color:#000000;
+}
+.black-bg, .bg000000 {
+   background:#000000;
+}
+.blanchedalmond, .clrFFEBCD {
+   color:#FFEBCD;
+}
+.blanchedalmond-bg, .bgFFEBCD {
+   background:#FFEBCD;
+}
+.blue, .clr0074D9 {
+   color:#0074D9;
+}
+.blue-bg, .bg0074D9 {
+   background:#0074D9;
+}
+.blueviolet, .clr8A2BE2 {
+   color:#8A2BE2;
+}
+.blueviolet-bg, .bg8A2BE2 {
+   background:#8A2BE2;
+}
+.brown, .clrA52A2A {
+   color:#A52A2A;
+}
+.brown-bg, .bgA52A2A {
+   background:#A52A2A;
+}
+.burlywood, .clrDEB887 {
+   color:#DEB887;
+}
+.burlywood-bg, .bgDEB887 {
+   background:#DEB887;
+}
+.cadetblue, .clr5F9EA0 {
+   color:#5F9EA0;
+}
+.cadetblue-bg, .bg5F9EA0 {
+   background:#5F9EA0;
+}
+.chartreuse, .clr7FFF00 {
+   color:#7FFF00;
+}
+.chartreuse-bg, .bg7FFF00 {
+   background:#7FFF00;
+}
+.chocolate, .clrD2691E {
+   color:#D2691E;
+}
+.chocolate-bg, .bgD2691E {
+   background:#D2691E;
+}
+.coral, .clrFF7F50 {
+   color:#FF7F50;
+}
+.coral-bg, .bgFF7F50 {
+   background:#FF7F50;
+}
+.cornflowerblue, .clr6495ED {
+   color:#6495ED;
+}
+.cornflowerblue-bg, .bg6495ED {
+   background:#6495ED;
+}
+.cornsilk, .clrFFF8DC {
+   color:#FFF8DC;
+}
+.cornsilk-bg, .bgFFF8DC {
+   background:#FFF8DC;
+}
+.crimson, .clrDC143C {
+   color:#DC143C;
+}
+.crimson-bg, .bgDC143C {
+   background:#DC143C;
+}
+.cyan, .clr00FFFF {
+   color:#00FFFF;
+}
+.cyan-bg, .bg00FFFF {
+   background:#00FFFF;
+}
+.darkblue, .clr00008B {
+   color:#00008B;
+}
+.darkblue-bg, .bg00008B {
+   background:#00008B;
+}
+.darkcyan, .clr008B8B {
+   color:#008B8B;
+}
+.darkcyan-bg, .bg008B8B {
+   background:#008B8B;
+}
+.darkgoldenrod, .clrB8860B {
+   color:#B8860B;
+}
+.darkgoldenrod-bg, .bgB8860B {
+   background:#B8860B;
+}
+.darkgray, .darkgrey, .clrA9A9A9 {
+   color:#A9A9A9;
+}
+.darkgray-bg, .darkgrey-bg, .bgA9A9A9 {
+   background:#A9A9A9;
+}
+.darkgreen, .clr006400 {
+   color:#006400;
+}
+.darkgreen-bg, .bg006400 {
+   background:#006400;
+}
+.darkkhaki, .clrBDB76B {
+   color:#BDB76B;
+}
+.darkkhaki-bg, .bgBDB76B {
+   background:#BDB76B;
+}
+.darkmagenta, .clr8B008B {
+   color:#8B008B;
+}
+.darkmagenta-bg, .bg8B008B {
+   background:#8B008B;
+}
+.darkolivegreen, .clr556B2F {
+   color:#556B2F;
+}
+.darkolivegreen-bg, .bg556B2F {
+   background:#556B2F;
+}
+.darkorange, .clrFF8C00 {
+   color:#FF8C00;
+}
+.darkorange-bg, .bgFF8C00 {
+   background:#FF8C00;
+}
+.darkorchid, .clr9932CC {
+   color:#9932CC;
+}
+.darkorchid-bg, .bg9932CC {
+   background:#9932CC;
+}
+.darkred, .clr8B0000 {
+   color:#8B0000;
+}
+.darkred-bg, .bg8B0000 {
+   background:#8B0000;
+}
+.darksalmon, .clrE9967A {
+   color:#E9967A;
+}
+.darksalmon-bg, .bgE9967A {
+   background:#E9967A;
+}
+.darkseagreen, .clr8FBC8F {
+   color:#8FBC8F;
+}
+.darkseagreen-bg, .bg8FBC8F {
+   background:#8FBC8F;
+}
+.darkslateblue, .clr483D8B {
+   color:#483D8B;
+}
+.darkslateblue-bg, .bg483D8B {
+   background:#483D8B;
+}
+.darkslategray, .darkslategrey, .clr2F4F4F {
+   color:#2F4F4F;
+}
+.darkslategray-bg, .darkslategrey-bg, .bg2F4F4F {
+   background:#2F4F4F;
+}
+.darkturquoise, .clr00CED1 {
+   color:#00CED1;
+}
+.darkturquoise-bg, .bg00CED1 {
+   background:#00CED1;
+}
+.darkviolet, .clr9400D3 {
+   color:#9400D3;
+}
+.darkviolet-bg, .bg9400D3 {
+   background:#9400D3;
+}
+.deeppink, .clrFF1493 {
+   color:#FF1493;
+}
+.deeppink-bg, .bgFF1493 {
+   background:#FF1493;
+}
+.deepskyblue, .clr00BFFF {
+   color:#00BFFF;
+}
+.deepskyblue-bg, .bg00BFFF {
+   background:#00BFFF;
+}
+.dimgray, .dimgrey, .clr696969 {
+   color:#696969;
+}
+.dimgray-bg, .dimgrey-bg, .bg696969 {
+   background:#696969;
+}
+.dodgerblue, .clr1E90FF {
+   color:#1E90FF;
+}
+.dodgerblue-bg, .bg1E90FF {
+   background:#1E90FF;
+}
+.firebrick, .clrB22222 {
+   color:#B22222;
+}
+.firebrick-bg, .bgB22222 {
+   background:#B22222;
+}
+.floralwhite, .clrFFFAF0 {
+   color:#FFFAF0;
+}
+.floralwhite-bg, .bgFFFAF0 {
+   background:#FFFAF0;
+}
+.forestgreen, .clr228B22 {
+   color:#228B22;
+}
+.forestgreen-bg, .bg228B22 {
+   background:#228B22;
+}
+.fuchsia, .clrFF00FF {
+   color:#FF00FF;
+}
+.fuchsia-bg, .bgFF00FF {
+   background:#FF00FF;
+}
+.gainsboro, .clrDCDCDC {
+   color:#DCDCDC;
+}
+.gainsboro-bg, .bgDCDCDC {
+   background:#DCDCDC;
+}
+.ghostwhite, .clrF8F8FF {
+   color:#F8F8FF;
+}
+.ghostwhite-bg, .bgF8F8FF {
+   background:#F8F8FF;
+}
+.gold, .clrFFD700 {
+   color:#FFD700;
+}
+.gold-bg, .bgFFD700 {
+   background:#FFD700;
+}
+.goldenrod, .clrDAA520 {
+   color:#DAA520;
+}
+.goldenrod-bg, .bgDAA520 {
+   background:#DAA520;
+}
+.gray, .grey, .clr808080 {
+   color:#808080;
+}
+.gray-bg, .grey-bg, .bg808080 {
+   background:#808080;
+}
+.green, .clr008000 {
+   color:#008000;
+}
+.green-bg, .bg008000 {
+   background:#008000;
+}
+.greenyellow, .clrADFF2F {
+   color:#ADFF2F;
+}
+.greenyellow-bg, .bgADFF2F {
+   background:#ADFF2F;
+}
+.honeydew, .clrF0FFF0 {
+   color:#F0FFF0;
+}
+.honeydew-bg, .bgF0FFF0 {
+   background:#F0FFF0;
+}
+.hotpink, .clrFF69B4 {
+   color:#FF69B4;
+}
+.hotpink-bg, .bgFF69B4 {
+   background:#FF69B4;
+}
+.indianred, .clrCD5C5C {
+   color:#CD5C5C;
+}
+.indianred-bg, .bgCD5C5C {
+   background:#CD5C5C;
+}
+.indigo, .clr4B0082 {
+   color:#4B0082;
+}
+.indigo-bg, .bg4B0082 {
+   background:#4B0082;
+}
+.ivory, .clrFFFFF0 {
+   color:#FFFFF0;
+}
+.ivory-bg, .bgFFFFF0 {
+   background:#FFFFF0;
+}
+.khaki, .clrF0E68C {
+   color:#F0E68C;
+}
+.khaki-bg, .bgF0E68C {
+   background:#F0E68C;
+}
+.lavender, .clrE6E6FA {
+   color:#E6E6FA;
+}
+.lavender-bg, .bgE6E6FA {
+   background:#E6E6FA;
+}
+.lavenderblush, .clrFFF0F5 {
+   color:#FFF0F5;
+}
+.lavenderblush-bg, .bgFFF0F5 {
+   background:#FFF0F5;
+}
+.lawngreen, .clr7CFC00 {
+   color:#7CFC00;
+}
+.lawngreen-bg, .bg7CFC00 {
+   background:#7CFC00;
+}
+.lemonchiffon, .clrFFFACD {
+   color:#FFFACD;
+}
+.lemonchiffon-bg, .bgFFFACD {
+   background:#FFFACD;
+}
+.lightblue, .clrADD8E6 {
+   color:#ADD8E6;
+}
+.lightblue-bg, .bgADD8E6 {
+   background:#ADD8E6;
+}
+.lightcoral, .clrF08080 {
+   color:#F08080;
+}
+.lightcoral-bg, .bgF08080 {
+   background:#F08080;
+}
+.lightcyan, .clrE0FFFF {
+   color:#E0FFFF;
+}
+.lightcyan-bg, .bgE0FFFF {
+   background:#E0FFFF;
+}
+.lightgoldenrodyellow, .clrFAFAD2 {
+   color:#FAFAD2;
+}
+.lightgoldenrodyellow-bg, .bgFAFAD2 {
+   background:#FAFAD2;
+}
+.lightgreen, .clr90EE90 {
+   color:#90EE90;
+}
+.lightgreen-bg, .bg90EE90 {
+   background:#90EE90;
+}
+.lightgrey, .lightgray, .clrD3D3D3 {
+   color:#D3D3D3;
+}
+.lightgrey-bg, .lightgray-bg, .bgD3D3D3 {
+   background:#D3D3D3;
+}
+.lightpink, .clrFFB6C1 {
+   color:#FFB6C1;
+}
+.lightpink-bg, .bgFFB6C1 {
+   background:#FFB6C1;
+}
+.lightsalmon, .clrFFA07A {
+   color:#FFA07A;
+}
+.lightsalmon-bg, .bgFFA07A {
+   background:#FFA07A;
+}
+.lightseagreen, .clr20B2AA {
+   color:#20B2AA;
+}
+.lightseagreen-bg, .bg20B2AA {
+   background:#20B2AA;
+}
+.lightskyblue, .clr87CEFA {
+   color:#87CEFA;
+}
+.lightskyblue-bg, .bg87CEFA {
+   background:#87CEFA;
+}
+.lightslategray, .lightslategrey, .clr778899 {
+   color:#778899;
+}
+.lightslategray-bg, .lightslategrey-bg, .bg778899 {
+   background:#778899;
+}
+.lightsteelblue, .clrB0C4DE {
+   color:#B0C4DE;
+}
+.lightsteelblue-bg, .bgB0C4DE {
+   background:#B0C4DE;
+}
+.lightyellow, .clrFFFFE0 {
+   color:#FFFFE0;
+}
+.lightyellow-bg, .bgFFFFE0 {
+   background:#FFFFE0;
+}
+.lime, .clr00FF00 {
+   color:#00FF00;
+}
+.lime-bg, .bg00FF00 {
+   background:#00FF00;
+}
+.limegreen, .clr32CD32 {
+   color:#32CD32;
+}
+.limegreen-bg, .bg32CD32 {
+   background:#32CD32;
+}
+.linen, .clrFAF0E6 {
+   color:#FAF0E6;
+}
+.linen-bg, .bgFAF0E6 {
+   background:#FAF0E6;
+}
+.magenta, .clrFF00FF {
+   color:#FF00FF;
+}
+.magenta-bg, .bgFF00FF {
+   background:#FF00FF;
+}
+.maroon, .clr800000 {
+   color:#800000;
+}
+.maroon-bg, .bg800000 {
+   background:#800000;
+}
+.mediumauqamarine, .clr66CDAA {
+   color:#66CDAA;
+}
+.mediumauqamarine-bg, .bg66CDAA {
+   background:#66CDAA;
+}
+.mediumblue, .clr0000CD {
+   color:#0000CD;
+}
+.mediumblue-bg, .bg0000CD {
+   background:#0000CD;
+}
+.mediumorchid, .clrBA55D3 {
+   color:#BA55D3;
+}
+.mediumorchid-bg, .bgBA55D3 {
+   background:#BA55D3;
+}
+.mediumpurple, .clr9370D8 {
+   color:#9370D8;
+}
+.mediumpurple-bg, .bg9370D8 {
+   background:#9370D8;
+}
+.mediumseagreen, .clr3CB371 {
+   color:#3CB371;
+}
+.mediumseagreen-bg, .bg3CB371 {
+   background:#3CB371;
+}
+.mediumslateblue, .clr7B68EE {
+   color:#7B68EE;
+}
+.mediumslateblue-bg, .bg7B68EE {
+   background:#7B68EE;
+}
+.mediumspringgreen, .clr00FA9A {
+   color:#00FA9A;
+}
+.mediumspringgreen-bg, .bg00FA9A {
+   background:#00FA9A;
+}
+.mediumturquoise, .clr48D1CC {
+   color:#48D1CC;
+}
+.mediumturquoise-bg, .bg48D1CC {
+   background:#48D1CC;
+}
+.mediumvioletred, .clrC71585 {
+   color:#C71585;
+}
+.mediumvioletred-bg, .bgC71585 {
+   background:#C71585;
+}
+.midnightblue, .clr191970 {
+   color:#191970;
+}
+.midnightblue-bg, .bg191970 {
+   background:#191970;
+}
+.mintcream, .clrF5FFFA {
+   color:#F5FFFA;
+}
+.mintcream-bg, .bgF5FFFA {
+   background:#F5FFFA;
+}
+.mistyrose, .clrFFE4E1 {
+   color:#FFE4E1;
+}
+.mistyrose-bg, .bgFFE4E1 {
+   background:#FFE4E1;
+}
+.moccasin, .clrFFE4B5 {
+   color:#FFE4B5;
+}
+.moccasin-bg, .bgFFE4B5 {
+   background:#FFE4B5;
+}
+.navajowhite, .clrFFDEAD {
+   color:#FFDEAD;
+}
+.navajowhite-bg, .bgFFDEAD {
+   background:#FFDEAD;
+}
+.navy, .clr000080 {
+   color:#000080;
+}
+.navy-bg, .bg000080 {
+   background:#000080;
+}
+.oldlace, .clrFDF5E6 {
+   color:#FDF5E6;
+}
+.oldlace-bg, .bgFDF5E6 {
+   background:#FDF5E6;
+}
+.olive, .clr808000 {
+   color:#808000;
+}
+.olive-bg, .bg808000 {
+   background:#808000;
+}
+.olivedrab, .clr688E23 {
+   color:#688E23;
+}
+.olivedrab-bg, .bg688E23 {
+   background:#688E23;
+}
+.orange, .clrFFA500 {
+   color:#FFA500;
+}
+.orange-bg, .bgFFA500 {
+   background:#FFA500;
+}
+.orangered, .clrFF4500 {
+   color:#FF4500;
+}
+.orangered-bg, .bgFF4500 {
+   background:#FF4500;
+}
+.orchid, .clrDA70D6 {
+   color:#DA70D6;
+}
+.orchid-bg, .bgDA70D6 {
+   background:#DA70D6;
+}
+.palegoldenrod, .clrEEE8AA {
+   color:#EEE8AA;
+}
+.palegoldenrod-bg, .bgEEE8AA {
+   background:#EEE8AA;
+}
+.palegreen, .clr98FB98 {
+   color:#98FB98;
+}
+.palegreen-bg, .bg98FB98 {
+   background:#98FB98;
+}
+.paleturquoise, .clrAFEEEE {
+   color:#AFEEEE;
+}
+.paleturquoise-bg, .bgAFEEEE {
+   background:#AFEEEE;
+}
+.palevioletred, .clrD87093 {
+   color:#D87093;
+}
+.palevioletred-bg, .bgD87093 {
+   background:#D87093;
+}
+.papayawhip, .clrFFEFD5 {
+   color:#FFEFD5;
+}
+.papayawhip-bg, .bgFFEFD5 {
+   background:#FFEFD5;
+}
+.peachpuff, .clrFFDAB9 {
+   color:#FFDAB9;
+}
+.peachpuff-bg, .bgFFDAB9 {
+   background:#FFDAB9;
+}
+.peru, .clrCD853F {
+   color:#CD853F;
+}
+.peru-bg, .bgCD853F {
+   background:#CD853F;
+}
+.pink, .clrFFC0CB {
+   color:#FFC0CB;
+}
+.pink-bg, .bgFFC0CB {
+   background:#FFC0CB;
+}
+.plum, .clrDDA0DD {
+   color:#DDA0DD;
+}
+.plum-bg, .bgDDA0DD {
+   background:#DDA0DD;
+}
+.powderblue, .clrB0E0E6 {
+   color:#B0E0E6;
+}
+.powderblue-bg, .bgB0E0E6 {
+   background:#B0E0E6;
+}
+.purple, .clr800080 {
+   color:#800080;
+}
+.purple-bg, .bg800080 {
+   background:#800080;
+}
+.red, .clrFF0000 {
+   color:#FF0000;
+}
+.red-bg, .bgFF0000 {
+   background:#FF0000;
+}
+.rosybrown, .clrBC8F8F {
+   color:#BC8F8F;
+}
+.rosybrown-bg, .bgBC8F8F {
+   background:#BC8F8F;
+}
+.royalblue, .clr4169E1 {
+   color:#4169E1;
+}
+.royalblue-bg, .bg4169E1 {
+   background:#4169E1;
+}
+.saddlebrown, .clr8B4513 {
+   color:#8B4513;
+}
+.saddlebrown-bg, .bg8B4513 {
+   background:#8B4513;
+}
+.salmon, .clrFA8072 {
+   color:#FA8072;
+}
+.salmon-bg, .bgFA8072 {
+   background:#FA8072;
+}
+.sandybrown, .clrF4A460 {
+   color:#F4A460;
+}
+.sandybrown-bg, .bgF4A460 {
+   background:#F4A460;
+}
+.seagreen, .clr2E8B57 {
+   color:#2E8B57;
+}
+.seagreen-bg, .bg2E8B57 {
+   background:#2E8B57;
+}
+.seashell, .clrFFF5EE {
+   color:#FFF5EE;
+}
+.seashell-bg, .bgFFF5EE {
+   background:#FFF5EE;
+}
+.sienna, .clrA0522D {
+   color:#A0522D;
+}
+.sienna-bg, .bgA0522D {
+   background:#A0522D;
+}
+.silver, .clrC0C0C0 {
+   color:#C0C0C0;
+}
+.silver-bg, .bgC0C0C0 {
+   background:#C0C0C0;
+}
+.skyblue, .clr87CEEB {
+   color:#87CEEB;
+}
+.skyblue-bg, .bg87CEEB {
+   background:#87CEEB;
+}
+.slateblue, .clr6A5ACD {
+   color:#6A5ACD;
+}
+.slateblue-bg, .bg6A5ACD {
+   background:#6A5ACD;
+}
+.slategray, .slategrey, .clr708090 {
+   color:#708090;
+}
+.slategray-bg, .slategrey-bg, .bg708090 {
+   background:#708090;
+}
+.snow, .clrFFFAFA {
+   color:#FFFAFA;
+}
+.snow-bg, .bgFFFAFA {
+   background:#FFFAFA;
+}
+.springgreen, .clr00FF7F {
+   color:#00FF7F;
+}
+.springgreen-bg, .bg00FF7F {
+   background:#00FF7F;
+}
+.steelblue, .clr4682B4 {
+   color:#4682B4;
+}
+.steelblue-bg, .bg4682B4 {
+   background:#4682B4;
+}
+.tan, .clrD2B48C {
+   color:#D2B48C;
+}
+.tan-bg, .bgD2B48C {
+   background:#D2B48C;
+}
+.teal, .clr008080 {
+   color:#008080;
+}
+.teal-bg, .bg008080 {
+   background:#008080;
+}
+.thistle, .clrD8BFD8 {
+   color:#D8BFD8;
+}
+.thistle-bg, .bgD8BFD8 {
+   background:#D8BFD8;
+}
+.tomato, .clrFF6347 {
+   color:#FF6347;
+}
+.tomato-bg, .bgFF6347 {
+   background:#FF6347;
+}
+.turquoise, .clr40E0D0 {
+   color:#40E0D0;
+}
+.turquoise-bg, .bg40E0D0 {
+   background:#40E0D0;
+}
+.violet, .clrEE82EE {
+   color:#EE82EE;
+}
+.violet-bg, .bgEE82EE {
+   background:#EE82EE;
+}
+.wheat, .clrF5DEB3 {
+   color:#F5DEB3;
+}
+.wheat-bg, .bgF5DEB3 {
+   background:#F5DEB3;
+}
+.white, .clrFFFFFF {
+   color:#FFFFFF;
+}
+.white-bg, .bgFFFFFF {
+   background:#FFFFFF;
+}
+.whitesmoke, .clrF5F5F5 {
+   color:#F5F5F5;
+}
+.whitesmoke-bg, .bgF5F5F5 {
+   background:#F5F5F5;
+}
+.yellow, .clrFFFF00 {
+   color:#FFFF00;
+}
+.yellow-bg, .bgFFFF00 {
+   background:#FFFF00;
+}
+.yellowgreen, .clr9ACD32 {
+   color:#9ACD32;
+}
+.yellowgreen-bg, .bg9ACD32 {
+   background:#9ACD32;
+}
+.acidgreen, .clrB0BF1A {
+   color:#B0BF1A;
+}
+.acidgreen-bg, .bgB0BF1A {
+   background:#B0BF1A;
+}
+.aero, .clr7CB9E8 {
+   color:#7CB9E8;
+}
+.aero-bg, .bg7CB9E8 {
+   background:#7CB9E8;
+}
+.aeroblue, .clrC9FFE5 {
+   color:#C9FFE5;
+}
+.aeroblue-bg, .bgC9FFE5 {
+   background:#C9FFE5;
+}
+.africanviolet, .clrB284BE {
+   color:#B284BE;
+}
+.africanviolet-bg, .bgB284BE {
+   background:#B284BE;
+}
+.alabamacrimson, .clrAF002A {
+   color:#AF002A;
+}
+.alabamacrimson-bg, .bgAF002A {
+   background:#AF002A;
+}
+.alizarincrimson, .clrE32636 {
+   color:#E32636;
+}
+.alizarincrimson-bg, .bgE32636 {
+   background:#E32636;
+}
