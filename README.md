@@ -169,38 +169,34 @@ or another way is:
 | Plum                 | plum, clrDDA0DD                           | plum-bg, bgDDA0DD                                |
 | Powder Blue          | powderblue, clrB0E0E6                     | powderblue-bg, bgB0E0E6                          |
 | Purple               | purple, clr800080                         | purple-bg, bg800080                              |
-| Red                  | 
-| Rosy Brown           |
-| Royal Blue |
-| Saddle Brown |
-| Salmon |
-| Sandy Brown |
-| Sea Green |
-| Sea Shell |
-| Sienna |
-| Silver |
-| Sky Blue |
-| Slate Blue |
-| Slate Gray |
-| Snow |
-| Spring Green |
-| Steel Blue |
-| Tan |
-| Teal |
-| Thistle |
-| Tomato |
-| Turquoise |
-| Violet |
-| Wheat |
-| White |
-| White Smoke |
-| Yellow |
-| Yellow Green |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Red                  | red, clrFF0000                            | red-bg, bgFF0000                                 | 
+| Rosy Brown           | rosybrown, clrBC8F8F                      | rosybrown-bg, bgBC8F8F                           |
+| Royal Blue           | royalblue, clr4169E1                      | royalblue-bg, bg4169E1                           |
+| Saddle Brown         | saddlebrown, clr8B4513                    | saddlebrown-bg, bg8B4513                         | 
+| Salmon               | salmon, clrFA8072                         | salmon-bg, bgFA8072                              |
+| Sandy Brown          | sandybrown, clrF4A460                     | sandybrown-bg, bgF4A460                          |
+| Sea Green            | seagreen, clr2E8B57                       | seagreen-bg, bg2E8B57                            |
+| Sea Shell            | seashell, clrFFF5EE                       | seashell-bg, bgFFF5EE                            |
+| Sienna               | sienna, clrA0522D                         | sienna-bg, bgA0522D                              |
+| Silver               | silver, clrC0C0C0                         | silver-bg, bgC0C0C0                              |
+| Sky Blue             | skyblue, clr87CEEB                        | skyblue-bg, bg87CEEB                             |
+| Slate Blue           | slateblue, clr6A5ACD                      | slateblue-bg, bg6A5ACD                           |
+| Slate Gray           | slategray, slategrey, clr708090           | slategray-bg, slategrey-bg, bg708090             |
+| Snow                 | snow, clrFFFAFA                           | snow-bg, bgFFFAFA                                | 
+| Spring Green         | springgreen, clr00FF7F                    | springgreen-bg, bg00FF7F                         |
+| Steel Blue           | steelblue, clr4682B4                      | steelblue-bg, bg4682B4                           |
+| Tan                  | tan, clrD2B48C                            | tan-bg, bgD2B48C                                 |
+| Teal                 | teal, clr008080                           | teal-bg, bg008080                                |
+| Thistle              | thistle, clrD8BFD8                        | thistle-bg, bgD8BFD8                             |
+| Tomato               | tomato, clrFF6347                         | tomato-bg, bgFF6347                              |
+| Turquoise            | turquoise, clr40E0D0                      | turquoise-bg, bg40E0D0                           |
+| Violet               | violet, clrEE82EE                         | violet-bg, bgEE82EE                              |
+| Wheat                | wheat, clrF5DEB3                          | wheat-bg, bgF5DEB3                               |
+| White                | white, clrFFFFFF                          | white-bg, bgFFFFFF                               |
+| White Smoke          | whitesmoke, clrF5F5F5                     | whitesmoke-bg, bgF5F5F5                          |
+| Yellow               | yellow, clrFFFF00                         | yellow-bg, bgFFFF00                              |
+| Yellow Green         | yellowgreen, clr9ACD32                    | yellowgreen-bg, bg9ACD32                         |
+
 
 
 
